@@ -29,5 +29,5 @@ Temporary Items
 #for this project
 
 node_modules/
-*.js
+bulid/
 package-lock.json
